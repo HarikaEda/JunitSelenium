@@ -1,0 +1,37 @@
+//Kaynak https://www.techlistic.com/p/selenium-tutorials.html
+
+//    1. Open this url  http://automationpractice.pl/index.php
+//    2. Click on sign in link.
+//    3. Verify sign in page
+//    3. Enter your email address in 'Create and account' section.
+//    4. Click on Create an Account button.
+//    5. Enter your Personal Information, Address and Contact info.
+//    6. Click on Register button.
+//    7. Validate that user is created.
+10:50
+//    Actions Class ile Test Case - Automate 'Search Product' feature of e-commerce website with Selenium.
+//    Steps to Automate:
+//            1. Open link http://automationpractice.pl/index.php
+//            2. Move your cursor over Women's link.
+//            3. Click on sub menu 'T-shirts'
+//            4. Get Name/Text of the first product displayed on the page.
+//            5. Now enter the same product name in the search bar present on top of page and click search button.
+//            6. Validate that same product is displayed on searched page with same details which were displayed on T-Shirt's page.
+(edited)
+10:51
+//1."https://www.saucedemo.com"Adresinegidin
+//        2.Username kutusuna "standard_user"yazdirin
+//        3.Password kutusuna "secret_sauce"yazdirin
+//        4.Login tusunabasin
+//        5.Ilk urunun ismini kaydedin ve bu urunun sayfasina gidin
+//        6.Add to Cart butonunabasin
+//        7.Alisveris sepetinetiklayin
+//        8.Sectiginiz urunun basarili olarak sepete eklendigini controledin
+//        9.Sayfayikapatin
+
+
+
+
+
+
+
